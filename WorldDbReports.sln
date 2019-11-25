@@ -1,0 +1,30 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.106
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{F14B399A-7131-4C87-9E4B-1186C45EF12D}") = "WorldDbReports", "WorldDbReports\WorldDbReports.rptproj", "{66F0938A-F598-4B60-9DD3-F520767C296A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Default = Debug|Default
+		DebugLocal|Default = DebugLocal|Default
+		Release|Default = Release|Default
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{66F0938A-F598-4B60-9DD3-F520767C296A}.Debug|Default.ActiveCfg = Debug
+		{66F0938A-F598-4B60-9DD3-F520767C296A}.Debug|Default.Build.0 = Debug
+		{66F0938A-F598-4B60-9DD3-F520767C296A}.Debug|Default.Deploy.0 = Debug
+		{66F0938A-F598-4B60-9DD3-F520767C296A}.DebugLocal|Default.ActiveCfg = DebugLocal
+		{66F0938A-F598-4B60-9DD3-F520767C296A}.DebugLocal|Default.Build.0 = DebugLocal
+		{66F0938A-F598-4B60-9DD3-F520767C296A}.Release|Default.ActiveCfg = Release
+		{66F0938A-F598-4B60-9DD3-F520767C296A}.Release|Default.Build.0 = Release
+		{66F0938A-F598-4B60-9DD3-F520767C296A}.Release|Default.Deploy.0 = Release
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C425B956-D149-4E72-A3C4-C34481D96482}
+	EndGlobalSection
+EndGlobal
