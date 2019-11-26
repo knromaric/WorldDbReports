@@ -50,9 +50,12 @@
   </PropertyGroup>
   <ItemGroup>
     <DataSource Include="AdventureWorks.rds" />
+    <DataSource Include="Movies.rds" />
     <DataSource Include="WORLD.rds" />
   </ItemGroup>
   <ItemGroup>
+    <Report Include="Actors Drill Down Report.rdl" />
+    <Report Include="Actors_Report.rdl" />
     <Report Include="ProductReportHeadFooter.rdl" />
     <Report Include="Product_Report.rdl" />
     <Report Include="World Report.rdl" />
