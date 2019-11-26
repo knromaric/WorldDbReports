@@ -49,9 +49,11 @@
     <Reports>@(Report)</Reports>
   </PropertyGroup>
   <ItemGroup>
+    <DataSource Include="AdventureWorks.rds" />
     <DataSource Include="WORLD.rds" />
   </ItemGroup>
   <ItemGroup>
+    <Report Include="Product_Report.rdl" />
     <Report Include="World Report.rdl" />
     <Report Include="World_Rep_Formatted.rdl" />
   </ItemGroup>
