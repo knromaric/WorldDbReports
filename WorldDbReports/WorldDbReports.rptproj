@@ -58,6 +58,7 @@
     <Report Include="Actors_Report.rdl" />
     <Report Include="Continent Report.rdl" />
     <Report Include="ProductReportHeadFooter.rdl" />
+    <Report Include="Products Nested Report.rdl" />
     <Report Include="Product_Report.rdl" />
     <Report Include="World Report.rdl" />
     <Report Include="World_Rep_Formatted.rdl" />
