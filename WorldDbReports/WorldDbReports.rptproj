@@ -53,6 +53,7 @@
     <DataSource Include="WORLD.rds" />
   </ItemGroup>
   <ItemGroup>
+    <Report Include="ProductReportHeadFooter.rdl" />
     <Report Include="Product_Report.rdl" />
     <Report Include="World Report.rdl" />
     <Report Include="World_Rep_Formatted.rdl" />
