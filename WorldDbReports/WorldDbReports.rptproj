@@ -58,6 +58,7 @@
     <Report Include="Actors_Report.rdl" />
     <Report Include="Cars Report.rdl" />
     <Report Include="Continent Report.rdl" />
+    <Report Include="Country Flag Report.rdl" />
     <Report Include="Population Report.rdl" />
     <Report Include="ProductReportHeadFooter.rdl" />
     <Report Include="Products Nested Report.rdl" />
