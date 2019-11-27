@@ -65,6 +65,7 @@
     <Report Include="Product_Report.rdl" />
     <Report Include="Sales Per quater and per year matrix report.rdl" />
     <Report Include="Sales with indicator.rdl" />
+    <Report Include="World Report with parameter.rdl" />
     <Report Include="World Report.rdl" />
     <Report Include="World_Rep_Formatted.rdl" />
   </ItemGroup>
