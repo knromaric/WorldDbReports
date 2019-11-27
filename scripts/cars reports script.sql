@@ -2,6 +2,7 @@ USE World
 GO
 
 
+
 CREATE TABLE Cars
 (
     Id int,
